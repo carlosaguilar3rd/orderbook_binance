@@ -1,3 +1,7 @@
-C:\git\OrderBook\src\main\java\helper\OrderBookHelper.java
-C:\git\OrderBook\src\main\java\client\websocket\BinanceWebSocketClient.java
-C:\git\OrderBook\src\main\java\client\http\BinanceAPIHttpClient.java
+C:\Users\Carlos Aguilar III\personal-workspace\orderbook_binance\src\main\java\businesslogic\OrderBookBusinessLogic.java
+C:\Users\Carlos Aguilar III\personal-workspace\orderbook_binance\src\main\java\helper\MathHelper.java
+C:\Users\Carlos Aguilar III\personal-workspace\orderbook_binance\src\main\java\helper\OrderBookHelper.java
+C:\Users\Carlos Aguilar III\personal-workspace\orderbook_binance\src\main\java\client\http\BinanceAPIHttpClient.java
+C:\Users\Carlos Aguilar III\personal-workspace\orderbook_binance\src\main\java\model\OrderBook.java
+C:\Users\Carlos Aguilar III\personal-workspace\orderbook_binance\src\main\java\model\Depth.java
+C:\Users\Carlos Aguilar III\personal-workspace\orderbook_binance\src\main\java\client\websocket\BinanceWebSocketClient.java
