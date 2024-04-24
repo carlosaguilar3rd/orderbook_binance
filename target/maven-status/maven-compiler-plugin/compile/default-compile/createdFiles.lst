@@ -1,7 +1,6 @@
-businesslogic\OrderBookBusinessLogic.class
 client\http\BinanceAPIHttpClient.class
+businesslogic\OrderBookBusinessLogic.class
 helper\OrderBookHelper.class
 helper\MathHelper.class
-client\websocket\BinanceWebSocketClient.class
 model\Depth.class
 model\OrderBook.class
