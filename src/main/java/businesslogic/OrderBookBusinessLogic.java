@@ -27,7 +27,7 @@ public class OrderBookBusinessLogic {
 
     public void mainLogic(String symbol) {
         if (counter == 0) {
-            System.out.println("SYMBOL" + "\t\t" + "BID" + "\t\t\t\t\t\t\t\t" + "ASK" + "\t\t\t\t\t\t\t\t" + "Volume Change");
+            System.out.println("SYMBOL" + "\t\t" + "BID" + "\t\t\t\t\t" + "ASK" + "\t\t\t" + "Volume Change");
             counter++;
         }
 
